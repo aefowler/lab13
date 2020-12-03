@@ -1,0 +1,6 @@
+---
+title: "Extra page"
+output: html_document
+---
+
+Extra information 
