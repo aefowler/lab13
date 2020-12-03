@@ -1,5 +1,4 @@
 name: "my-website"
-output_dir: "site_docs"
 navbar:
   title: "Alison's Lab 13 Website"
   left:
