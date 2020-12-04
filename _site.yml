@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Extra"
-      href: extra.html
+    - text: "EvoGenLab"
+      href: evogen.html
 output:
   html_document:
     theme: journal
