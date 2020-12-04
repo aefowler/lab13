@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "About"
 ---
 
-Made December 3, 2020 
+After we learned how to make a website on github (back in Sept), I made myself a little research website, which you can look at [here](https://aefowler.github.io/website/). I am definitely going to play around with the themes and adding a "real" navigation bar now that I have got that figured out with this lab. 

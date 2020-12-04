@@ -1,8 +1,6 @@
 ---
 title: "EvoGenLab"
-author: "Alison Fowler"
-date: "12/3/2020"
 output: html_document
 ---
 
-
+Click [here](https://aefowler.github.io/genomics-course/) to visit my Lab Assignments page for Evolutionary Genomics and Bioinformatics. 
